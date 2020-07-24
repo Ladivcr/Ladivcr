@@ -15,12 +15,14 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8662444/ladiv?tab=profile)](https://stackoverflow.com/users/8662444/ladiv?tab=profile)
 
 
-```javascript
-const Ladivcr = {
-  code: [Python, MySQL, C, C++, HTML, CSS],
-  tools: [Flask, Pandas, SKLearn],
-  challenge: "I'm currently practicing code in www.hackerrank.com and doing some challenges for beginner DS in kaggle"
-}
+```python
+if __name__ == "__main__":
+    code = ["Python", "MySQL", "C", "C++", "HTML", "CSS"]
+    tools = ["Flask", "Pandas", "SKLearn", "matplotlib.pyplot"]
+    API = ["Tweepy"]
+    challenge = "I'm currently practicing code in www.hackerrank.com and doing some challenges for beginner DS in kaggle"
+    
+    print("I work with: ",code,"\nI use this tools: ",tools,"\nI have used: ",API, "\nAnd my personal challenge: ", challenge) 
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
