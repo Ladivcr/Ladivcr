@@ -11,7 +11,7 @@
 
 [![Twitter: Ladivcr](https://img.shields.io/twitter/follow/Ladivcr?style=social)](https://twitter.com/Ladivcr)
 [![Linkedin: José Vidal Cardona Rosas](https://img.shields.io/badge/-Vidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Vidal-p-singh/)](https://www.linkedin.com/in/jos%C3%A9-vidal-cardona-rosas-006010179/)
-[![Hackerrank: @Ladivcr](https://img.shields.io/badge/Hackerrank-follow-green)](https://www.hackerrank.com/Ladivcr)
+[![Hackerrank: @Ladivcr](https://img.shields.io/badge/Hackerrank-follow-biggreen)](https://www.hackerrank.com/Ladivcr)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8662444/ladiv?tab=profile)](https://stackoverflow.com/users/8662444/ladiv?tab=profile)
 
 
