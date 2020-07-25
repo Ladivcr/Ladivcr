@@ -33,7 +33,7 @@ if __name__ == "__main__":
         <img height="60px" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql">
       </td>
       <td width="20%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <span>Python</span><br><br><br>
         <img height="60px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
     </tr>
