@@ -18,27 +18,12 @@
 ```python
 if __name__ == "__main__":
     code = ["Python", "MySQL", "C", "C++", "HTML", "CSS"]
-    tools = ["Flask", "Pandas", "SKLearn", "matplotlib.pyplot", "Bootstrap"]
+    tools = ["Flask", "Pandas", "SKLearn", "matplotlib.pyplot", "Bootstrap", "PyQt]
     apis = ["Tweepy"]
     challenge = "I'm currently practicing code in www.hackerrank.com and doing some challenges for beginner data scientist in kaggle"
     
     print("I work with: ",code,"\nI use this tools: ",tools,"\nI have used: ",apis,"\nAnd my personal challenge: ", challenge) 
 ```
-## Currently, what I use more?
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>MySQL</span><br><br><br>
-        <img height="60px" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql">
-      </td>
-      <td width="20%" align="center">
-        <span>Python</span><br><br><br>
-        <img height="60px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-<em><p>But it depends on the problems</p></em>
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
