@@ -18,7 +18,7 @@
 ```python
 if __name__ == "__main__":
     code = ["Python", "MySQL", "C", "C++", "HTML", "CSS"]
-    tools = ["Flask", "Pandas", "SKLearn", "matplotlib.pyplot", "Bootstrap", "PyQt"]
+    tools = ["Flask", "Pandas", "SKLearn", "matplotlib.pyplot", "Bootstrap", "PyQt", "Pytorch"]
     apis = ["Tweepy"]
     challenge = "I'm currently practicing code in www.hackerrank.com and doing some challenges for beginner data scientist in kaggle"
     
