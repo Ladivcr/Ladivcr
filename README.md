@@ -6,7 +6,7 @@
 <h2>Hi there 👋, I'm Vidal Cardona </h2>         
 <img align="right" alt="GIF" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-<p><em>DS student at <a href="http://www.enesmorelia.unam.mx/">UNAM Morelia </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>CS/DS student at <a href="http://www.enesmorelia.unam.mx/">UNAM Morelia </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Ladivcr](https://img.shields.io/twitter/follow/Ladivcr?style=social)](https://twitter.com/Ladivcr)
