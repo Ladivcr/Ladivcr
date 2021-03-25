@@ -17,13 +17,12 @@
 
 ```python
 if __name__ == "__main__":
-    code = ["Python", "MySQL", "C++", "HTML", "CSS"]
-    tools = ["Flask", "Pandas", "SKLearn", "matplotlib.pyplot", "Bootstrap", "Pytorch"]
-    other_tools = ["LaTeX"]
+    code = ["Python", "MySQL", "C", "R"]
+    tools = ["Numpy", "Pandas", "SKLearn", "matplotlib.pyplot", "Flask", "Pytorch", "LaTeX"]
     apis = ["Tweepy"]
     challenge = "I'm currently practicing code in www.hackerrank.com and doing some challenges for beginner data scientist in kaggle"
     
-    print("I work with: ",code,"\nI use this tools: ",tools,"\nI have used: ",apis,"\nAnd my personal challenge: ", challenge) 
+    print(f"I work with: {code}\nI use this tools: {tools}\nI have used: {apis}\nAnd my personal challenge: {challenge}") 
 ```
 
 
