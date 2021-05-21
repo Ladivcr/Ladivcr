@@ -38,8 +38,10 @@ if __name__ == "__main__":
 
 ### Some Github stats ❤️
 
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ladivcr&&show_icons=true&theme=radical" alt="Vidal's Github Stats"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladivcr&theme=radical&layout=compact" alt="top languages"/>
+<p align="left">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ladivcr&&show_icons=true&theme=radical" alt="Vidal's Github Stats"/>
+</p>
+<p alignt="right">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladivcr&theme=radical&layout=compact" alt="top languages"/>
 </p> 
 
