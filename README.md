@@ -33,9 +33,11 @@ if __name__ == "__main__":
 ### Some Github stats ❤️
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ladivcr&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ladivcr&&show_icons=true&theme=radical" alt="Vidal's Github Stats">
 </p> 
-
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladivcr&theme=radical" alt="top languages">
+</p>
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to talk,
