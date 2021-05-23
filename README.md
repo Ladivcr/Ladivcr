@@ -13,7 +13,7 @@
 </em></p>
 <p align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>
-    so if you want to talk, I'll be happy to talk with you!</b> Also you can find in another social networks if you want n.n</em>
+    so if you want to talk, I'll be happy to talk with you!</b> Also you can find me in another social networks if you want n.n</em>
 </p>
 
 <!--[![Twitter: Ladivcr](https://img.shields.io/twitter/follow/Ladivcr?style=social)](https://twitter.com/Ladivcr)-->
