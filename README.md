@@ -28,7 +28,7 @@ if __name__ == "__main__":
     backend = ["Python"]
     databases = ["MySQL"]
     stats = ["R"]
-    learning = ["C", "C++"]
+    learning = ["Docker"]
     libraries = ["Numpy", "Pandas", "SKLearn", "matplotlib.pyplot"]
     frameworks = ["Django", "Flask"]
     apis = ["Tweepy"]
