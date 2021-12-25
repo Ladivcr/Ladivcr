@@ -28,12 +28,12 @@ if __name__ == "__main__":
     backend = ["Python"]
     databases = ["MySQL"]
     stats = ["R"]
-    learning = ["Docker"]
+    learning = ["Engineering Fundamentals"]
     libraries = ["Numpy", "Pandas", "SKLearn", "matplotlib.pyplot"]
     frameworks = ["Django", "Flask"]
     apis = ["Tweepy"]
     text_elaboration = ["LaTeX", "Word"]
-     
+    Others = ["Docker", "Postman", "Insomnia", "Azure Synapse", "Azure Blob Storage", "Azure Container Registry"] 
 ```
 
 ### Some Github stats ❤️
