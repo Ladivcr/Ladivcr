@@ -33,7 +33,7 @@ if __name__ == "__main__":
     frameworks = ["Django", "Flask"]
     apis = ["Tweepy"]
     text_elaboration = ["LaTeX", "Word"]
-    Others = ["Docker", "Postman", "Insomnia", "Azure Synapse", "Azure Blob Storage", "Azure Container Registry"] 
+    others = ["Docker", "Postman", "Insomnia", "Azure Synapse", "Azure Blob Storage", "Azure Container Registry"] 
 ```
 
 ### Some Github stats ❤️
