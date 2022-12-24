@@ -25,13 +25,9 @@
 
 ```python
 if __name__ == "__main__":
-    backend = ["Python"]
-    databases = ["MySQL"]
-    stats = ["R"]
-    learning = ["Engineering Fundamentals"]
-    libraries = ["Numpy", "Pandas", "SKLearn", "matplotlib.pyplot"]
-    frameworks = ["Django", "Flask"]
-    apis = ["Tweepy"]
+    backend = ["Python", "FastAPI", "Django"]
+    databases = ["MySQL", "Postgres", "Redis"]
+    learning = ["Blockchain"]
     text_elaboration = ["LaTeX", "Word"]
     others = ["Docker", "Postman", "Insomnia", "Azure Synapse", "Azure Blob Storage", "Azure Container Registry"] 
 ```
