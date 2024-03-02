@@ -20,7 +20,7 @@
 [![Linkedin: José Vidal Cardona Rosas](https://img.shields.io/badge/-Vidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Vidal-p-singh/)](https://www.linkedin.com/in/ladivcr/)
 [![HackerRank: @Ladivcr](https://img.shields.io/badge/HackerRank-follow-biggreen)](https://www.hackerrank.com/Ladivcr)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8662444/ladiv?tab=profile)](https://stackoverflow.com/users/8662444/ladiv?tab=profile)
-[![YouTube](https://img.shields.io/badge/youtube-red)]([https://www.kaggle.com/ladivcr](https://www.youtube.com/@ladivcr))
+[![YouTube: Vidal Cardona - Ahorro Verde](https://img.shields.io/badge/youtube-red)](https://www.youtube.com/@ladivcr)
 
 
 ```python
