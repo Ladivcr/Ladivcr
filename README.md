@@ -20,16 +20,16 @@
 [![Linkedin: José Vidal Cardona Rosas](https://img.shields.io/badge/-Vidal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Vidal-p-singh/)](https://www.linkedin.com/in/ladivcr/)
 [![HackerRank: @Ladivcr](https://img.shields.io/badge/HackerRank-follow-biggreen)](https://www.hackerrank.com/Ladivcr)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8662444/ladiv?tab=profile)](https://stackoverflow.com/users/8662444/ladiv?tab=profile)
-[![Kaggle](https://img.shields.io/badge/kaggle-blue)](https://www.kaggle.com/ladivcr)
+[![YouTube](https://img.shields.io/badge/youtube-red)]([https://www.kaggle.com/ladivcr](https://www.youtube.com/@ladivcr))
 
 
 ```python
 if __name__ == "__main__":
     backend = ["Python", "FastAPI", "Django"]
-    databases = ["MySQL", "Postgres", "Redis"]
-    learning = ["Blockchain"]
+    databases = ["MySQL", "Postgres", "Redis", "MongoDB"]
+    learning = ["Golang", "Finance", "Nature", "Green Savings"]
     text_elaboration = ["LaTeX", "Word"]
-    others = ["Docker", "Postman", "Insomnia", "Azure Synapse", "Azure Blob Storage", "Azure Container Registry"] 
+    others = ["Docker", "Postman", "Insomnia", "S3"] 
 ```
 
 ### Some Github stats ❤️
