@@ -27,7 +27,7 @@
 if __name__ == "__main__":
     backend = ["Python", "FastAPI", "Django"]
     databases = ["MySQL", "Postgres", "Redis", "MongoDB"]
-    learning = ["Golang", "Finance", "Nature", "Green Savings"]
+    learning = ["Cybersecurity", "Finance", "Nature", "Green Savings"]
     text_elaboration = ["LaTeX", "Word"]
     others = ["Docker", "Postman", "Insomnia", "S3"] 
 ```
