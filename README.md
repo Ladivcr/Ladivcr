@@ -15,10 +15,6 @@
     so if you want to talk, I'll be happy to talk with you!</b> Also you can find me in another social networks if you want n.n</em>
 </p>
 
-[![YouTube: Vidal Cardona](https://img.shields.io/badge/youtube-red)](https://www.youtube.com/@ladivcr)
-[![Medium: Ladivcr](https://img.shields.io/badge/medium-black)](https://medium.com/@ladivcr)
-
-
 
 ```python
 if __name__ == "__main__":
